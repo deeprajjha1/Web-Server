@@ -1,0 +1,6 @@
+<?xml version = "1.0"?>
+<server>
+   <port>8081</port>
+   <maxthread>1000</maxthread>
+   <webroot>wwwroot</webroot>
+</server>
